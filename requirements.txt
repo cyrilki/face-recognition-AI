@@ -1,0 +1,6 @@
+opencv-python
+face-recognitigon
+numpy==1.26.4
+pandas
+PyQt5
+openpyxl
